@@ -1,0 +1,62 @@
+# One search per line:  Japanese query  # English label
+# Same label on several lines = alternate translations (results are merged, duplicates removed).
+# Lines starting with # are ignored. Add/remove freely, but note every line multiplies the requests per run.
+
+ヴィンテージ スクイーズ  # vintage squishy
+レトロ スクイーズ  # vintage squishy
+当時物 スクイーズ  # vintage squishy
+
+レア スクイーズ  # rare squishy
+激レア スクイーズ  # rare squishy
+希少 スクイーズ  # rare squishy
+
+ハローキティ スクイーズ  # hello kitty squishy
+キティ スクイーズ  # hello kitty squishy
+
+リラックマ スクイーズ  # rilakkuma squishy
+
+キイロイトリ スクイーズ  # kiiroitori squishy
+きいろいとり スクイーズ  # kiiroitori squishy
+
+コリラックマ スクイーズ  # korilakkuma squishy
+
+くまのがっこう スクイーズ  # bear school squishy
+ジャッキー スクイーズ  # bear school squishy
+
+チェブラーシカ スクイーズ  # cheburashka squishy
+
+アオヤマトーキョー スクイーズ  # aoyama tokyo squishy
+青山東京 スクイーズ  # aoyama tokyo squishy
+AOYAMA TOKYO スクイーズ  # aoyama tokyo squishy
+
+カフェドエヌ スクイーズ  # cafe de n squishy
+カフェ・ド・エヌ スクイーズ  # cafe de n squishy
+cafe de n スクイーズ  # cafe de n squishy
+
+ぷにまる スクイーズ  # puni maru squishy
+プニマル スクイーズ  # puni maru squishy
+
+クリーミーキャンディ スクイーズ  # creamiicandy squishy
+クリーミィキャンディ スクイーズ  # creamiicandy squishy
+creamiicandy スクイーズ  # creamiicandy squishy
+
+アニメ スクイーズ  # anime squishy
+アニメ キャラクター スクイーズ  # anime squishy
+
+チョッパー スクイーズ  # chopper squishy
+トニートニー・チョッパー スクイーズ  # chopper squishy
+
+ワンピース スクイーズ  # one piece squishy
+
+ハイキュー スクイーズ  # haikyuu squishy
+
+魔女の宅急便 スクイーズ  # kiki's delivery service squishy
+キキ ジジ スクイーズ  # kiki's delivery service squishy
+
+アポロちゃん スクイーズ  # apollo-chan squishy
+アポロチャン スクイーズ  # apollo-chan squishy
+
+サンエックス スクイーズ  # san-x squishy
+san-x スクイーズ  # san-x squishy
+
+サンリオ スクイーズ  # sanrio squishy
